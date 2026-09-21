@@ -1,0 +1,32 @@
+# Canonical names only - pass to the transcriber with --names.
+# Do NOT add misspellings here; they belong in corrections.json.
+Ammonia
+Brak
+Carsk
+Casimir Aldovane
+Commander Ilyra Dane
+Corellian Whiskey
+Cpl Tavi Renn
+Emon
+Ilyra Dane
+Kess
+Naboo
+Rethven
+Rhett
+Security Cards & Uniforms
+Sel
+Sgt Brak Tanris
+Spc Emon Vale
+Stealth Field Generator
+Tavi
+Tessick
+The Dome
+The Nubian Aqua Splendor
+The Security Officer
+The Servants' Quarters
+The Specimen
+The Wayfarer's Debt
+Vessaly
+Vibro-knucklers
+Vossk
+Vossk's Squad
