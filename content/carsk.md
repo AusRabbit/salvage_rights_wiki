@@ -24,5 +24,9 @@ When [[michael]] escaped the ship, Carsk sprinted through the [[service-tunnels]
 
 Carsk has spent years investigating the mastermind behind the terrorist attack that killed his family. Aboard the [[wayfarers-debt|Wayfarer's Debt]], faces and red string chart what he has learned. While escorting Michael away, he recognised an unnamed diplomat as one of those faces. That lead is now inside the Splendor.
 
+## Un Mo'mento
+
+[[un-momento]] is an old Bothan contact and former romantic entanglement. Carsk once broke her refresher window, left without calling and disappeared while in a bad way. At [[port-heska]] he brought her whiskey and finally gave a specific apology. It did not earn forgiveness, but it did earn the lead that took the crew to [[marda-voss]].
+
 > [!note] Transcription note
 > Four distinct surface forms in one session, none of them the correct spelling. The registry resolves them on phonetic similarity plus context; a names file would have caught it at the source.

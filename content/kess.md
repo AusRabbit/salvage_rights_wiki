@@ -14,6 +14,8 @@ His charm is geographically limited. Aboard the [[wayfarers-debt]] his social ch
 
 Carries a tier-four *Mad Inventor* talent, unused so far: once per session he can attempt to cobble together the functional equivalent of any item out of salvage. He opened the evening carrying a critical injury from the dome, and closed it running a hostage situation like a dinner party.
 
+At [[port-heska]], Kess kept [[rhett]] alive and the specimen limb cold through remote engineering instructions, then interfered with [[talla-breen]]'s access to the berth cameras. He later carried Rhett's anomaly recording into [[marda-voss]]'s vault and established the campaign's surviving evidence trail.
+
 ## At the Splendor
 
 Kess concealed his pistol among the tools in his vest, attended rooftop Pilates and then committed fully to the resort's treatments. The resulting bill is enormous and, in his mind, somebody else's problem.

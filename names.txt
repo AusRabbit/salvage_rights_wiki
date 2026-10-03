@@ -11,14 +11,17 @@ Corellian Whiskey
 Cpl Tavi Renn
 Cygnus Biotech
 Dr. Sel Varo
+Drenn
 Emon
 Ilyra Dane
 Kallax
+Kallax & Sons Salvage
 Kess
 Marda Voss
 Michael
 Naboo
 Ottho
+Pavo
 Port Heska
 Rethven
 Rhett
@@ -31,6 +34,8 @@ Sgt Brak Tanris
 Spc Emon Vale
 Splendor Service Tunnels
 Stealth Field Generator
+Talla
+Talla Breen
 Tavi
 Tessick
 The Dome
@@ -40,6 +45,7 @@ The Servants' Quarters
 The Specimen
 The Wayfarer's Debt
 Trent
+Un Mo'mento
 Vessaly
 Vibro-knucklers
 Vossk

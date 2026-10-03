@@ -14,6 +14,8 @@ The crew previously sold those components to her aboard [[long-wake|the Long Wak
 
 Her weakness is her face. Every few cycles she goes quietly to [[naboo]] and checks into the [[nubian-aqua-splendor]] for treatments meant to restore the sharp, hawkish look she had as a young officer. She travels off the books. [[vessaly]] has her on the guest list as *Mistress Dane* and did not connect her to any Imperial rank at all.
 
+At the earlier Long Wake meeting she appeared as a human woman in her late sixties, with short white hair, a dark green naval coat stripped of insignia and painfully straight posture. She was controlled, severe and practical, and showed respect for survival competence rather than charm. When she accepted the specimen burden, she told the crew: “No. But it is no longer only your burden.”
+
 She arrived a few days ago. [[carsk]] spotted her on an eighth-floor balcony with a portly man presumed to be [[casimir-aldovane]] and established which suite she is using. Their affection appeared romantic.
 
 Later, Casimir and the presumed [[tessick]] stopped a conspiratorial conversation as soon as Dane appeared. She went inside with them, apparently unaware of what had just been discussed. The crew have located her without making contact.

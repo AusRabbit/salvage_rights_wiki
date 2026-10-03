@@ -21,7 +21,9 @@ The crew escaped with the wounded engineer [[rhett]], a severed piece of the org
 
 The survivors and evidence made the crew valuable to several competing interests. At [[port-heska]], Kallax's local people attempted to gain control of the situation while the crew sought a safer chain of custody.
 
-The confrontation broke Kallax's immediate operation and left violence on service surveillance. [[marda-voss]] accepted and sealed an anomaly recording made from Rhett's evidence, although the crew did not surrender the physical sample to her. Cygnus may have learned that specimen data had been authenticated.
+Carsk's former contact [[un-momento]] identified the people searching for the ship and sent the crew to [[marda-voss]]. The confrontation that followed left [[pavo]] dead, [[drenn]] incapacitated and [[talla-breen]] coerced into releasing the ship. The violence remained on service surveillance.
+
+Marda accepted and sealed an anomaly recording made from Rhett's evidence, although the crew did not surrender the physical sample to her. Cygnus may have learned that specimen data had been authenticated.
 
 ## The Long Wake
 

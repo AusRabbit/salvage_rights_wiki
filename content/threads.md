@@ -45,7 +45,12 @@ The clicking in the corridors, the medical knowledge that appeared from nowhere,
 ### Kallax's response
 `open` Unresolved
 
-[[verrin-kallax]] survived the first salvage conflict and his local network was later broken at [[port-heska]]. He may retaliate, bargain, or sell what he knows about the crew and the specimen.
+[[verrin-kallax]] survived the first salvage conflict and his [[kallax-and-sons|local network]] was later broken at [[port-heska]]. [[pavo]] is dead, [[drenn]]'s survival is unknown, and [[talla-breen]] escaped alive after freeing the ship. Carsk still holds Drenn's encrypted bounty puck and comm; Port Heska still holds surveillance of the violence.
+
+### Un Mo'mento and the unpleasantness
+`open` Angry but useful
+
+[[un-momento]] believed the crew's danger and provided the lead that saved their evidence, but she has not forgiven [[carsk]]. Their last recorded trust stood at three out of six, with a bottle of whiskey accepted and the larger personal history unresolved.
 
 ### Sel's concealed history
 `open` Persistent
