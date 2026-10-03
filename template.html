@@ -128,6 +128,8 @@
   .thread p{margin:0; font-size:15px}
 
   .beat{display:grid; grid-template-columns:70px minmax(0,1fr); gap:14px; margin-bottom:16px}
+  .timeline-session{font-size:20px!important; margin:32px 0 16px!important; padding-bottom:7px!important; border-bottom:1px solid var(--line)!important}
+  .timeline-session:first-child{margin-top:4px!important}
   @media (max-width:520px){ .beat{grid-template-columns:minmax(0,1fr); gap:2px} }
   .beat .t{font-family:var(--mono); font-size:11.5px; color:var(--muted); padding-top:4px}
   .beat .b p{margin:2px 0 0; font-size:14.5px; color:var(--muted)}
@@ -166,7 +168,7 @@
   <aside class="rail">
     <div class="brand">
       <div class="ship">Salvage Rights</div>
-      <div class="sub">The Wayfarer's Debt &middot; Session V</div>
+      <div class="sub">The Wayfarer's Debt &middot; Through Session VI</div>
     </div>
     <div class="search"><input id="q" type="search" placeholder="Filter the index&hellip;" aria-label="Filter index"></div>
     <nav class="nav" id="nav"></nav>
@@ -267,7 +269,7 @@ function renderPage(id){
        + '</ul></div>';
   }
 
-  h += '<div class="foot">Generated from a Craig recording of Session V, transcribed with '
+  h += '<div class="foot">Built from campaign records and session recordings transcribed with '
      + '<code>faster-whisper large-v3</code>. Entity names carry every surface form the transcript produced; '
      + 'anything marked <em>needs review</em> or <em>low confidence</em> is waiting on confirmation before it becomes canon. '
      + 'Built ' + BUILT + '.</div>';

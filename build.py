@@ -22,8 +22,8 @@ OUT = ROOT / "docs"
 TYPE_LABEL = {"character": "Character", "place": "Place", "thing": "Item",
               "faction": "Faction", "doc": "Session"}
 CONF_LABEL = {"hi": "Confirmed", "mid": "Needs review", "lo": "Low confidence"}
-GROUP_ORDER = ["Session V", "Player Characters", "Crew & Allies",
-               "Adversaries", "Places", "Things", "Factions"]
+GROUP_ORDER = ["Campaign", "Sessions", "Player Characters", "Crew & Allies",
+               "Adversaries", "Places", "Things", "Factions", "Reference"]
 
 WIKILINK = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]")
 
@@ -151,7 +151,12 @@ BEAT = re.compile(r"^-\s*`([^`]+)`\s*\*\*(.+?)\*\*\s*[—-]\s*(.*)$")
 def render_timeline(body, resolve, unresolved):
     rows = []
     for line in body.split("\n"):
-        m = BEAT.match(line.strip())
+        stripped = line.strip()
+        if stripped.startswith("## "):
+            rows.append('<h2 class="timeline-session">%s</h2>'
+                        % inline(stripped[3:], resolve, unresolved))
+            continue
+        m = BEAT.match(stripped)
         if not m:
             continue
         rows.append(

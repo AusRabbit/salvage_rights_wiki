@@ -12,4 +12,4 @@ Was the bulk of [[vossk-squad]], not its brain, and command fell to him when [[v
 
 Warmed to [[carsk]] over an evening and sixteen whiskies, and came out the other side offering something he was not asked for: his people's help, and the knowledge of where [[ilyra-dane]] will be. He is the only remaining connection to her.
 
-His caveat stands — his squad were sent to tie off loose ends, and the crew are the loose ends. He wants to be set down somewhere before anyone goes near the commander.
+His caveat stands — his squad were sent to tie off loose ends, and the crew are the loose ends. He wanted to be set down somewhere before anyone went near the commander. The crew have now located Dane inside the Splendor without establishing exactly where Brak and the remaining squad were left.

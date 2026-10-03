@@ -3,7 +3,9 @@ title: "Security Cards & Uniforms"
 group: "Things"
 type: thing
 conf: hi
-dek: "Taken at the ramp. The way in."
+dek: "Taken at the ramp. One stolen ID now opens the Splendor's staff systems."
 ---
 
-Stripped from [[vessaly]]'s party and the [[security-officer]], along with data pads. The whole point of the confrontation, and the crew's cover for moving inside the [[nubian-aqua-splendor]]. [[kess]] has offered to mend the torn one so it looks less suspicious when he wears it.
+Stripped from [[vessaly]]'s party and [[michael]], along with data pads. The uniforms and cards were the original cover for moving inside the [[nubian-aqua-splendor]], although Vessaly ultimately checked the crew in as guests.
+
+Michael's security ID proved more valuable than the uniform. [[kess]] used it at an unofficial terminal in the [[service-tunnels]] to access staff facial recognition, locate Michael and plot a route to intercept him.

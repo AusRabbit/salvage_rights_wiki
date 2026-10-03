@@ -44,8 +44,11 @@ The first build takes a minute or two; a 404 immediately afterwards is normal.
 
 1. Record with Craig, download the **multi-track** version.
 2. Transcribe each speaker track and merge by timestamp.
-3. Write the recap and any new entity pages into `content/`.
-4. `python build.py`, then commit and push.
+3. Add a separate session recap and update the cumulative timeline, open threads,
+   and any entity pages changed by the session.
+4. Keep deliberately unknown facts as open questions; do not turn table inference
+   into confirmed canon.
+5. `python build.py`, then commit and push.
 
 ## Frontmatter
 

@@ -1,8 +1,8 @@
 ---
-title: "The Price of Renewal"
-group: "Session V"
+title: "Session V — The Price of Renewal"
+group: "Sessions"
 type: doc
-order: 1
+order: 2
 dek: "Session recap — safe to share with the table."
 ---
 
