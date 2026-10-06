@@ -56,7 +56,7 @@ The first build takes a minute or two; a 404 immediately afterwards is normal.
 ---
 title: "Commander Ilyra Dane"
 group: "Adversaries"        # sidebar section
-type: character             # character | place | thing | faction | doc
+type: character             # character | place | thing | faction | enemy | doc
 conf: hi                    # hi | mid | lo  — how confident we are
 short: "Ilyra Dane"         # optional: the form people actually say
 aliases: ["Elira Dane", "Ilya Dayne", "Lyra"]

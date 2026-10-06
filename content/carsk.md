@@ -4,8 +4,8 @@ group: "Player Characters"
 type: character
 conf: hi
 player: adjutator_
-aliases: ["Karsk", "Kask", "Cask", "Casque", "Karst"]
-dek: "Furred war veteran. Located Dane, recaptured Michael, and recognised a face from his past."
+aliases: ["Karsk", "Kask", "Cask", "Casque", "Karst", "Kars"]
+dek: "Furred war veteran. Found the diplomat from his board, and heard his family may be alive."
 ---
 
 A veteran of a real war, which is the credential that got him through the door with [[vossk-squad]] when nothing else would have. Covered in fur and, by the end of sixteen whiskies, the most respected person in the room.
@@ -22,7 +22,7 @@ When [[michael]] escaped the ship, Carsk sprinted through the [[service-tunnels]
 
 ## The Board
 
-Carsk has spent years investigating the mastermind behind the terrorist attack that killed his family. Aboard the [[wayfarers-debt|Wayfarer's Debt]], faces and red string chart what he has learned. While escorting Michael away, he recognised an unnamed diplomat as one of those faces. That lead is now inside the Splendor.
+Carsk has spent years investigating the mastermind behind the terrorist attack that killed his family. Aboard the [[wayfarers-debt|Wayfarer's Debt]], faces and red string chart what he has learned. While escorting Michael away, he recognised a diplomat as one of those faces: [[iresa-tarn-kavu|Iresa Tarn-Kavu]], whom he knew from his Imperial service. By his account, she was meant to look after his family. He last saw them with her at a shuttle port; when he came back from assignment, they were dead and she was gone.
 
 ## Un Mo'mento
 
@@ -30,3 +30,11 @@ Carsk has spent years investigating the mastermind behind the terrorist attack t
 
 > [!note] Transcription note
 > Four distinct surface forms in one session, none of them the correct spelling. The registry resolves them on phonetic similarity plus context; a names file would have caught it at the source.
+
+## Session VII — Iresa
+
+The obligation took over. Carsk broke into Iresa's suite with [[ottho]]'s loaned swipe, tore it apart looking for her and came away with [[iresa-datapad|her work pad]]. When she returned, he stepped out of hiding and demanded answers. She did not give much, but she did tell him his family may be alive.
+
+Carsk lost his composure badly: dropped knives, smashed vases, fists on the table. He recovered only when the drones arrived. Then he made the shot of the night, hitting one [[skylark-security-drone|Skylark]]'s power core and taking out three drones at once. He covered the retreat with stun fire rather than shed organic blood, and threw the datapad to [[kess]] on the way out.
+
+He still believes Rethven's name is “Gann”, and said so loudly enough for security to hear.

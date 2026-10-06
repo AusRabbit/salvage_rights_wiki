@@ -17,3 +17,5 @@ She assisted on the medicine check that closed [[kess]]'s critical injury, and p
 [[carsk]] has stated in front of her that he intends to get whatever is in her body out of it. She asked what he was talking about. Nobody answered.
 
 At the [[nubian-aqua-splendor]], Sel passed easily among the guests, sampled the treatments and became relaxed enough to fall asleep in the crew's penthouse. The clicking and unexplained medical knowledge remain unresolved.
+
+In Session VII, Sel laid a hand on [[carsk]]'s shoulder and asked what he was going to do about [[iresa-tarn-kavu|Iresa]]. As she turned away, where he could no longer see her mouth, she clicked. She stayed behind in the penthouse with [[michael]].

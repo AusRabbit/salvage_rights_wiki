@@ -5,7 +5,7 @@ type: character
 short: "Ilyra Dane"
 conf: hi
 aliases: ["Elira Dane", "Ilya Dayne", "Elenia Dane", "Elyra Dane", "Lyra", "Mistress Dane"]
-dek: "Imperial commander. Located inside the Splendor, but not yet approached."
+dek: "Imperial commander. Her suite and schedule are known; she has not yet been approached."
 ---
 
 Holds the [[specimen]]'s missing components and, by [[brak-tanris]]'s account, will never part with them for credits. She is not a person the crew can buy; she is a person they have to reach.
@@ -22,3 +22,5 @@ Later, Casimir and the presumed [[tessick]] stopped a conspiratorial conversatio
 
 > [!note] Five surface forms, one person
 > The table itself could not settle on a pronunciation, so the transcript carries every attempt. This is the entity that most justifies a human approval step: an automated merge on phonetic distance alone could just as easily have split her into two commanders.
+
+With [[michael]]'s help, the crew have mapped her schedule: skin treatments, relaxation packages and exercise on the open deck. It keeps her busy and hard to track. Her ever-present bodyguard seems to hold conspiratorial conversations with Casimir. It is still only a hunch.

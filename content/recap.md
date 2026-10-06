@@ -2,7 +2,7 @@
 title: "Session V — The Price of Renewal"
 group: "Sessions"
 type: doc
-order: 2
+order: 3
 dek: "Session recap — safe to share with the table."
 ---
 

@@ -20,10 +20,10 @@ CONTENT = ROOT / "content"
 OUT = ROOT / "docs"
 
 TYPE_LABEL = {"character": "Character", "place": "Place", "thing": "Item",
-              "faction": "Faction", "doc": "Session"}
+              "faction": "Faction", "enemy": "Enemy", "doc": "Session"}
 CONF_LABEL = {"hi": "Confirmed", "mid": "Needs review", "lo": "Low confidence"}
 GROUP_ORDER = ["Campaign", "Sessions", "Player Characters", "Crew & Allies",
-               "Adversaries", "Places", "Things", "Factions", "Reference"]
+               "Adversaries", "Bestiary", "Places", "Things", "Factions", "Reference"]
 
 WIKILINK = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]")
 

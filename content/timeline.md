@@ -46,3 +46,36 @@ dek: "Session beats in order, with timestamps back into each recording."
 - `01:35` **The necklace** — Kess and Rethven divert Trent with a fabricated Gungan theft; Michael agrees to take a twenty-four-hour day off.
 - `01:41` **Close-out** — 10 XP each. The obligation roll triggers Carsk.
 - `01:43` **A face from the board** — Carsk recognises an unnamed diplomat connected to his investigation into his family's deaths.
+
+## Session VII
+
+- `00:07` **A quiet day off** — [[michael]] settles into the penthouse and helps map [[ilyra-dane]]'s crowded treatment schedule. Her bodyguard and [[casimir-aldovane]] keep conferring.
+- `00:08` **The cold shoulder** — [[vossk-squad]] stay aboard the ship, eating the food and wanting no part in what comes next.
+- `00:12` **I've seen her** — [[carsk]], sober and shaking, tells [[kess]] the diplomat is [[iresa-tarn-kavu|Iresa Tarn-Kavu]].
+- `00:15` **The click** — [[sel]] lays a hand on Carsk's shoulder, turns away and clicks. She stays with Michael.
+- `00:16` **Room service** — Kess goes in uniformed; [[rethven]] works the corridor with a trolley full of [[corellian-whiskey]] tasters.
+- `00:22` **Tearing the place apart** — Carsk ransacks the empty suite and finds [[iresa-datapad|Iresa's work pad]].
+- `00:24` **Iresa returns** — She declines Rethven's whiskey and walks in on Kess.
+- `00:25` **Smoke alarm inspection** — Kess's deception fails, and he says Carsk's name aloud.
+- `00:32` **“Hello, Carsk.”** — Carsk steps out of hiding; Iresa sits down to face him.
+- `00:34` **The panic button** — Already pressed. Security is on its way.
+- `00:40` **“What makes you think they're dead?”** — Iresa's lekku flick at the word.
+- `00:41` **A buzzing in the corridor** — Rethven hears it coming and barricades with the trolley.
+- `00:44` **The briefing** — Kess identifies [[skylark-security-drone|Skylark security drones]] and briefs the crew.
+- `00:49` **Two flights** — The drones come round the corner, with two [[splendor-security|security attendants]] behind them.
+- `00:51` **Hold the door** — Rethven ducks inside and braces the door with Pilates-trained leverage.
+- `00:53` **May be alive** — Iresa says she and Carsk's family escaped on that shuttle before the Imperial net closed.
+- `00:57` **Pulling wires** — Kess kills power to the room's drone hatches.
+- `01:00` **Off the hinges** — The guards tear the Kashyyyk-oak door loose, but cannot get it open.
+- `01:02` **The spa** — Kess dives into the spa for cover and shoots down a drone.
+- `01:09` **“Hostage!”** — Rethven drives a flight back into the corridor. Iresa laughs.
+- `01:14` **Flashing** — A drone sweeps the room, apparently recording the crew.
+- `01:20` **One shot, three kills** — Carsk hits a drone's power core; the blast takes two more.
+- `01:23` **Data on the wing** — The last drone flees for the balcony with its recording.
+- `01:28` **Mad Inventor** — Kess turns the panic button into a jammer. Iresa catches it and throws it away; it wrecks the suite anyway.
+- `01:31` **The door gives** — Security force their way in.
+- `01:32` **The datapad** — Carsk tosses Iresa's work pad to Kess.
+- `01:34` **Covering fire** — Carsk lays down stun fire. “Gann, we are leaving.”
+- `01:37` **Bagged** — Rethven captures the awning-tangled drone.
+- `01:41` **Backwards off the balcony** — Kess jumps and fires the grapnel in mid-air. It holds.
+- `01:44` **Close-out** — 10 XP each. A blaster was fired in the Splendor; security will be furious. Rethven's obligation triggers next session.

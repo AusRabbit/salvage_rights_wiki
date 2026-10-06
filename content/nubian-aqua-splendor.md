@@ -19,3 +19,7 @@ The [[service-tunnels]] connect machinery, staff areas and guest levels without 
 The sun deck and pool are on Level 3. Long arms are prohibited above the lower levels; the crew's rifles and carbines are hidden in a secured cupboard below the public resort.
 
 Beneath the shine, money greases everything. [[vessaly]] can sell access, Ottho can bypass it, and [[trent]]'s conduct suggests that resort security routinely targets its Gungan workforce.
+
+## Security
+
+The Splendor's quick-reaction force is a fleet of [[skylark-security-drone|Skylark security drones]], released from dispensaries throughout the building and able to move through hatches and chutes in the walls. Human [[splendor-security|security attendants]] follow behind them. The resort has smoke alarms but no blaster detection. Since Session VII, it has a wrecked suite, a missing drone and a blaster incident to investigate.

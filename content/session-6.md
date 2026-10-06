@@ -2,7 +2,7 @@
 title: "Session VI — Waterfalls and Loose Ends"
 group: "Sessions"
 type: doc
-order: 1
+order: 2
 dek: "The crew check in, find Dane, and chase an escaped security officer through paradise."
 ---
 

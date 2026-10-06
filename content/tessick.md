@@ -12,3 +12,5 @@ A very strange individual who is always with them. [[vessaly]] describes him as 
 The crew later watched a figure in a bulky jacket and communications headset arguing quietly with [[casimir-aldovane]]. The business relationship and bodyguard role fit Vessaly's description of Tessick, but the identification remains an in-character presumption. Their conversation stopped when [[ilyra-dane]] appeared. Before going inside, the figure glanced towards the crew's balcony and may have noticed the surveillance.
 
 *Earmarked for Jesse to run as an NPC next session; the character sheet is going out.*
+
+In Session VII, the crew noted that Dane's ever-present bodyguard keeps holding quiet, conspiratorial conversations with [[casimir-aldovane]].

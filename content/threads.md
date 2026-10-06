@@ -4,28 +4,53 @@ group: "Campaign"
 type: doc
 layout: threads
 order: 4
-dek: "What the campaign is currently holding unresolved after Session VI."
+dek: "What the campaign is currently holding unresolved after Session VII."
 ---
+
+### Is Carsk's family alive?
+`hot` New claim
+
+[[iresa-tarn-kavu|Iresa Tarn-Kavu]] says she and [[carsk]]'s family boarded a shuttle and escaped before the Imperial net closed, and that they may still be alive. She said it while security was on its way and Carsk was demanding answers. It is unverified, and it contradicts everything Carsk believed.
+
+### Iresa's datapad
+`hot` Unread
+
+[[kess]] is holding [[iresa-datapad|Iresa's work pad]], taken from her luggage. Nobody has looked inside yet. Iresa may not know it is gone.
+
+### The captured drone
+`hot` Unknown contents
+
+[[rethven]] escaped with [[captured-skylark-drone|a Skylark drone]] that appeared to be recording the crew. What it captured, and whether it can still report back, is unknown.
+
+### Shots fired in the Splendor
+`hot` Heat rising
+
+The crew escaped Iresa's suite apparently unseen, but blasters were fired, drones were destroyed and a suite was wrecked. [[splendor-security]] and [[severin]] will be looking for whoever did it. Iresa knows exactly who it was.
 
 ### Reach Dane's suite
 `hot` Ready
 
-The crew know [[ilyra-dane]]'s room, have an eighth-floor base nearby and can move through the [[service-tunnels]]. Exterior maintenance routes may offer another approach. The presumed [[tessick]] may already have noticed their surveillance.
+The crew know [[ilyra-dane]]'s room and, thanks to [[michael]], her crowded treatment schedule. They have an eighth-floor base nearby and can move through the [[service-tunnels]]. Exterior maintenance routes may offer another approach. Her ever-present bodyguard, the presumed [[tessick]], may already have noticed their surveillance.
 
 ### Casimir and Tessick's private agenda
 `hot` New evidence
 
 [[casimir-aldovane]] and the presumed [[tessick]] held a terse, conspiratorial conversation and stopped the instant Dane appeared. Whatever they were discussing, they did not want her to hear it.
 
-### The diplomat on Carsk's board
-`hot` Obligation triggered
+### Iresa is still in the Splendor
+`open` Unfinished business
 
-[[carsk]] recognised an unnamed diplomat as one of the faces linked to the terrorist attack that killed his family. The person was present inside the Splendor and has not yet been followed or identified.
+Carsk confronted [[iresa-tarn-kavu|Iresa]] and walked away with more questions than answers. She is still at the resort for now, and she knows Carsk is here. Getting to her again before she leaves for another world may be difficult.
+
+### Rethven's obligation
+`open` Triggers next session
+
+The obligation roll at the end of Session VII came up [[rethven]]. His obligation is a fascination with what cannot be explained.
 
 ### Michael's twenty-four hours
 `hot` Clock running
 
-[[michael]] agreed under threat to punch out and stay in the crew's penthouse for a day. He has dependants, knows who abducted him and remains a witness rather than a recruit.
+[[michael]] agreed under threat to punch out and stay in the crew's penthouse for a day, and has since helped the crew piece together Dane's schedule. [[sel]] is keeping him company. He has dependants, knows who abducted him and remains a witness rather than a recruit.
 
 ### Recover the Specimen's components
 `open` Primary
@@ -35,7 +60,7 @@ The bargain for access beneath [[the-dome]]. [[brak-tanris]] says the components
 ### What is inside Sel
 `open` Escalating
 
-The clicking in the corridors, the medical knowledge that appeared from nowhere, and [[carsk]] announcing in front of [[sel]] that he intends to remove it. The resort has supplied relaxation, not answers.
+The clicking in the corridors, the medical knowledge that appeared from nowhere, and [[carsk]] announcing in front of [[sel]] that he intends to remove it. In Session VII she comforted Carsk, then turned away and clicked where he could not see her mouth.
 
 ### Cygnus witness control
 `open` Dormant threat
@@ -75,7 +100,7 @@ Years after the Imperial withdrawal, unknown visitors landed near [[the-dome]], 
 ### Brak wants off before Dane
 `open` Unresolved
 
-[[brak-tanris]] wanted his people set down before the crew went near Dane. The surviving [[vossk-squad]] were still associated with the ship when the crew entered the resort; their precise position now matters.
+[[brak-tanris]] wanted his people set down before the crew went near Dane. The surviving [[vossk-squad]] are still aboard the ship, cold-shouldering the crew and wanting no part in what comes next. They will not stay forever.
 
 ### Rhett's debt
 `open` Background

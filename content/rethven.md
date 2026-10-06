@@ -4,7 +4,7 @@ group: "Player Characters"
 type: character
 conf: hi
 player: aetius3185
-aliases: ["Rathven", "Rethvin", "Rethan", "Reflin", "Rathfin", "Gant"]
+aliases: ["Rathven", "Rethvin", "Rethan", "Reflin", "Rathfin", "Gant", "Gann"]
 dek: "Gand. Ammonia breather, ten years in the Dome, and unexpectedly convincing as a wealthy spa guest."
 ---
 
@@ -22,3 +22,11 @@ When [[kess]] accused Gungan room service of stealing his wife's Nubian pearl ne
 
 > [!note] Transcription note
 > Whisper repeatedly hears his species, *Gand*, as a personal name, "Gant" — and the table sometimes calls him that too. A naive extractor would create a separate character page for it. Flagged as an alias rather than merged silently, because a human should confirm this one.
+
+## Session VII — The Door
+
+Rethven kept watch in the corridor beside a hijacked room-service trolley, pocketing the [[corellian-whiskey]] tasters, and greeted [[iresa-tarn-kavu|Iresa]] with a loud offer of whiskey. He heard the drones first. When the trolley proved useless against things that fly, he ducked into the suite and held the door shut with his back. His Pilates training — leverage and the right foothold rather than strength — held off the [[splendor-security|security attendants]] for most of the fight.
+
+He shouted “Hostage!” at exactly the wrong person and drove a flight of drones back into the corridor. On the balcony, he bagged [[captured-skylark-drone|the last Skylark]] and punched it quiet.
+
+[[carsk]] called him “Gann” in front of security. The obligation roll came up Rethven for next session.
