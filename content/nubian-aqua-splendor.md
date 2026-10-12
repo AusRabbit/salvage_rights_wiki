@@ -1,5 +1,6 @@
 ---
 title: "The Nubian Aqua Splendor"
+aliases: ["Nubian Arco Splendor"]
 group: "Places"
 type: place
 conf: hi
@@ -23,3 +24,7 @@ Beneath the shine, money greases everything. [[vessaly]] can sell access, Ottho 
 ## Security
 
 The Splendor's quick-reaction force is a fleet of [[skylark-security-drone|Skylark security drones]], released from dispensaries throughout the building and able to move through hatches and chutes in the walls. Human [[splendor-security|security attendants]] follow behind them. The resort has smoke alarms but no blaster detection. Since Session VII, it has a wrecked suite, a missing drone and a blaster incident to investigate.
+
+## The Treatment Levels
+
+The spa floors are covered on their own page: [[treatment-levels]]. The geothermal water piped through them is the resort's real selling point. Since Session VIII, the resort also has a sealed and overheated treatment room, a Gungan matriarch who has raised the alarm, and a security warden hunting for a Gand.

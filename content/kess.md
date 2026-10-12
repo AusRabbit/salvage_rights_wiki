@@ -5,7 +5,7 @@ type: character
 conf: hi
 player: thygmn
 aliases: ["Kes"]
-dek: "Pilot, mechanic and owner of the Wayfarer's Debt. Now glowing from a deeply unaffordable spa day."
+dek: "Pilot, mechanic and, in possession terms, owner of the Wayfarer's Debt. Sliced the crew out of an oven."
 ---
 
 Flies the ship, fixes the ship, and is visibly happier doing the second. Spent most of this session with a toothbrush in the cockpit trying to get dome sand out from under the buttons, and delivered some of his best work of the campaign while only half listening.
@@ -29,3 +29,13 @@ Kess went first into [[iresa-tarn-kavu|Iresa]]'s suite in a laundry-room staff u
 He made up for it once the fight began. He identified the [[skylark-security-drone|Skylark security drones]] by sound and briefed the crew, pulled wires to kill the room's drone hatches, then shot a drone down from cover inside the suite's spa. With *Mad Inventor*, he turned Iresa's spent panic button into a jammer. It failed, but it shut down the suite badly enough to tangle the last drone and cover the exit.
 
 He left by jumping backwards off the balcony and firing the grapnel on his heavy blaster pistol in mid-air. He is now holding [[iresa-datapad|Iresa's datapad]], unread.
+
+## Session VIII — Hand-Holding and Hot Wires
+
+On the [[treatment-levels|treatment levels]], Kess passed [[rethven]] off as a fat Geonosian and got it entered into the guest record. When a Gungan matriarch raised the alarm, he steered the crew into a supply room and the worst disguises of the campaign. His seaweed mask kept sliding off his face.
+
+In 6 Delta, he put on a robe and hood, said nothing and held [[ilyra-dane]]'s hand while she mistook him for Casimir. As the room overheated, he confirmed that the controls had been killed from outside. When Dane drew on the crew, he turned round empty-handed and told her the truth. Badly winded by the heat, he pulled the back panel and sliced the door with [[ottho]]'s security keys while someone else fought him inside the system.
+
+## Obligation — The Ship
+
+When the obligation roll came up, Kess finally told the real story of the [[wayfarers-debt|Wayfarer's Debt]]. He did not win her in a game of cards. He bought her from a shonky dealer, disabled the tracking so she could not be repossessed and left. Possession, he points out, is nine-tenths of the law, as long as the ship stays ahead of the debtors.

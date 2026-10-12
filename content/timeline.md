@@ -79,3 +79,26 @@ dek: "Session beats in order, with timestamps back into each recording."
 - `01:37` **Bagged** — Rethven captures the awning-tangled drone.
 - `01:41` **Backwards off the balcony** — Kess jumps and fires the grapnel in mid-air. It holds.
 - `01:44` **Close-out** — 10 XP each. A blaster was fired in the Splendor; security will be furious. Rethven's obligation triggers next session.
+
+## Session VIII
+
+- `00:22` **The Warden** — [[severin|Warden Severin]] surveys Iresa's wrecked suite, looks over the balcony and orders his people to find the Gand.
+- `00:24` **Dark datapad** — The crew keep [[iresa-datapad|Iresa's datapad]] switched off inside the resort for fear of dead man's switches. Back to [[ilyra-dane]].
+- `00:26` **Towels only** — [[carsk]], [[kess]] and [[rethven]] enter the [[treatment-levels|treatment levels]] in towels, with [[sel]] alongside.
+- `00:29` **A fat Geonosian** — Kess passes Rethven off as a Geonosian. The receptionist enters it into the guest record.
+- `00:35` **The 12:30** — Rethven claims the 12:30 appointment. It belongs to Dane and [[casimir-aldovane]], in Treatment Room 6 Delta.
+- `00:39` **The man in the sauna** — Dane's suspicious follower, presumably [[tessick]], sits down beside Carsk.
+- `00:41` **The protein fart** — Carsk clears the sauna. The man asks whether it was Carsk on the balcony a day ago, then leaves.
+- `00:48` **Naked in the corridor** — Rethven flees the smell in a blind panic. A Gungan matriarch raises security.
+- `00:53` **It's in the jets** — The crew talk the matriarch away. She recognises them from the attack on the Togruta envoy and calls for help once out of sight.
+- `00:58` **The supply room** — A key from the abandoned desk opens the supply room. Seaweed, foils and coat-hanger wings.
+- `01:02` **Into 6 Delta** — Dane and Casimir go in together. A figure moves through a side passage.
+- `01:04` **But a moment, darling** — Casimir leaves 6 Delta and walks off in another direction.
+- `01:08` **Hand-holding** — Kess, robed and silent, holds Dane's hand while Carsk plays the intern and Rethven puts his face in the water.
+- `01:18` **Turning up the heat** — The room heats up. The control panel throws errors and the door is locked.
+- `01:29` **The holdout blaster** — Dane, now wounded, sees who is in the room and draws.
+- `01:31` **Enemy of my enemy** — Carsk and Kess convince her that someone else is doing this.
+- `01:40` **Go with the water** — Rethven is swept out of the room through the stream and surfaces in an empty corridor.
+- `01:45` **Counter-slice** — Kess opens the door with [[ottho]]'s keys against someone actively working against him in the system.
+- `01:47` **“What now?”** — Dane emerges, wounded, calling for a Casimir who never answers.
+- `01:48` **Close-out** — 10 XP each. The obligation roll triggers [[kess]]: the [[wayfarers-debt|Wayfarer's Debt]] is not entirely his.

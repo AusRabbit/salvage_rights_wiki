@@ -4,8 +4,8 @@ group: "Player Characters"
 type: character
 conf: hi
 player: aetius3185
-aliases: ["Rathven", "Rethvin", "Rethan", "Reflin", "Rathfin", "Gant", "Gann"]
-dek: "Gand. Ammonia breather, ten years in the Dome, and unexpectedly convincing as a wealthy spa guest."
+aliases: ["Rathven", "Rethvin", "Rethan", "Reflin", "Rathfin", "Gant", "Gann", "Reffin", "Refin", "Ruthven"]
+dek: "Gand, briefly a fat Geonosian. Found the most beautiful water in the galaxy and left through it."
 ---
 
 Spent a decade inside [[the-dome]] and has been almost nowhere since, which shows: he bounds down the ramp at the [[nubian-aqua-splendor]] purely because it is somewhere new, and gets mistaken for a reclusive billionaire on the strength of not understanding what credits are.
@@ -30,3 +30,9 @@ Rethven kept watch in the corridor beside a hijacked room-service trolley, pocke
 He shouted “Hostage!” at exactly the wrong person and drove a flight of drones back into the corridor. On the balcony, he bagged [[captured-skylark-drone|the last Skylark]] and punched it quiet.
 
 [[carsk]] called him “Gann” in front of security. The obligation roll came up Rethven for next session.
+
+## Session VIII — The Water
+
+Splendor security is now hunting for "the Gand". On the [[treatment-levels|treatment levels]], [[kess]] passed him off as a fat Geonosian with his wings tucked into his towel, and Rethven claimed the 12:30 appointment as though he were too important to be asked. His mask did not save him from [[carsk]]'s fart. He fled in a blind panic, lost his towel and came to in a corridor full of Gungan attendants. *My therapist recommended exploratory social engagements.*
+
+His obligation took hold in 6 Delta. After ten years in the dry [[the-dome|Dome]], the room's geothermal water was the most beautiful thing he had ever seen. Instead of helping, he knelt and put his face in it. As the room overheated, Carsk told him to go with the water. The current swept him out through the channel, and he surfaced in a cool, deserted passage before finding his way back. The corridors had been busy on the way in. Now they were empty.

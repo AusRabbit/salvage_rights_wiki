@@ -2,7 +2,7 @@
 title: "Session VII — Smoke Alarm Inspection"
 group: "Sessions"
 type: doc
-order: 1
+order: 2
 dek: "Carsk confronts a ghost from his past, the Splendor's drones answer her panic button, and Kess leaves by the balcony."
 ---
 

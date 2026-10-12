@@ -5,7 +5,7 @@ type: character
 conf: hi
 player: adjutator_
 aliases: ["Karsk", "Kask", "Cask", "Casque", "Karst", "Kars"]
-dek: "Furred war veteran. Found the diplomat from his board, and heard his family may be alive."
+dek: "Bothan war veteran. Cleared a sauna, played the intern and talked Dane out of shooting."
 ---
 
 A veteran of a real war, which is the credential that got him through the door with [[vossk-squad]] when nothing else would have. Covered in fur and, by the end of sixteen whiskies, the most respected person in the room.
@@ -38,3 +38,11 @@ The obligation took over. Carsk broke into Iresa's suite with [[ottho]]'s loaned
 Carsk lost his composure badly: dropped knives, smashed vases, fists on the table. He recovered only when the drones arrived. Then he made the shot of the night, hitting one [[skylark-security-drone|Skylark]]'s power core and taking out three drones at once. He covered the retreat with stun fire rather than shed organic blood, and threw the datapad to [[kess]] on the way out.
 
 He still believes Rethven's name is “Gann”, and said so loudly enough for security to hear.
+
+## Session VIII — Casimir, Briefly
+
+Back on the mission, Carsk walked onto the [[treatment-levels|treatment levels]], dropped his towel and asked for the sauna. When the crew's stolen appointment turned out to belong to [[ilyra-dane]] and [[casimir-aldovane]], he became Casimir for the afternoon.
+
+When Dane's follower, presumably [[tessick]], joined him in the sauna, Carsk cleared the room with a protein-bar fart. It worked, but it cost him: the man recognised him from the balcony, and the smell sent [[rethven]] into a naked panic. In 6 Delta, Carsk played an intern on his first day, sent the masseuse away for more oil and, when Dane drew her holdout blaster, kept his hands up and made the case that mattered: *if we wanted to hurt you, we wouldn't be locked in here with you.* His instinctive glance towards [[kess]] gave away who had been holding her hand.
+
+He also told Rethven to go with the water.

@@ -19,3 +19,5 @@ She assisted on the medicine check that closed [[kess]]'s critical injury, and p
 At the [[nubian-aqua-splendor]], Sel passed easily among the guests, sampled the treatments and became relaxed enough to fall asleep in the crew's penthouse. The clicking and unexplained medical knowledge remain unresolved.
 
 In Session VII, Sel laid a hand on [[carsk]]'s shoulder and asked what he was going to do about [[iresa-tarn-kavu|Iresa]]. As she turned away, where he could no longer see her mouth, she clicked. She stayed behind in the penthouse with [[michael]].
+
+In Session VIII, Sel came to the treatment levels with the crew and took up a post in the corridor outside 6 Delta. When the room was sealed, she banged on the door from outside, then went to find where the water had taken [[rethven]].

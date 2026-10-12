@@ -13,4 +13,4 @@ As the crew escaped, Carsk tossed it to [[kess]], who knows how to get data out 
 
 ## Status
 
-Held by Kess. **Not yet read.** Whatever a diplomat carries on her personal pad — correspondence, schedules, contacts, or something about the shuttle that took Carsk's family off-world — is still locked inside.
+Held by Kess. **Not yet read.** The crew have deliberately left it switched off inside the resort for fear of dead man's switches and bit-lockers. Whatever a diplomat carries on her personal pad — correspondence, schedules, contacts, or something about the shuttle that took Carsk's family off-world — is still locked inside.

@@ -14,3 +14,5 @@ He initially resisted giving strangers access to the security system, then accep
 Other Gungans work throughout the tunnels. What the crew saw suggests that the resort's immaculate public face depends on an underclass kept largely out of sight.
 
 Ottho also loaned [[carsk]] a security swipe. It opened [[iresa-tarn-kavu|Iresa Tarn-Kavu]]'s suite without a sound.
+
+In Session VIII, [[kess]] used the security keys Ottho had provided to slice open the sealed door of [[treatment-levels|Treatment Room 6 Delta]].

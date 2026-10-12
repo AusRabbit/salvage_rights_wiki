@@ -4,8 +4,18 @@ group: "Campaign"
 type: doc
 layout: threads
 order: 4
-dek: "What the campaign is currently holding unresolved after Session VII."
+dek: "What the campaign is currently holding unresolved after Session VIII."
 ---
+
+### Who tried to cook Dane?
+`hot` New
+
+Someone locked [[ilyra-dane]] inside [[treatment-levels|Treatment Room 6 Delta]], disabled the controls from outside and turned the room into an oven. Then they actively fought [[kess]]'s attempt to slice the door open. [[casimir-aldovane]] had left minutes earlier with a promise to be right back, and never answered her calls. A figure who looked like her follower, presumably [[tessick]], was seen slipping through a side passage. The crew blundered into an assassination attempt. They did not make it.
+
+### Dane, face to face
+`hot` Now
+
+The crew finally reached [[ilyra-dane]], but not in the way they planned. She is wounded and badly shaken, has a holdout blaster and has just realised her lover may have tried to kill her. The crew pulled her out of the fire and told her they were not her worst enemies. She asked: “What now?” The [[specimen]]'s components are still the objective.
 
 ### Is Carsk's family alive?
 `hot` New claim
@@ -15,37 +25,32 @@ dek: "What the campaign is currently holding unresolved after Session VII."
 ### Iresa's datapad
 `hot` Unread
 
-[[kess]] is holding [[iresa-datapad|Iresa's work pad]], taken from her luggage. Nobody has looked inside yet. Iresa may not know it is gone.
+[[kess]] is holding [[iresa-datapad|Iresa's work pad]], taken from her luggage. The crew have deliberately not switched it on inside the resort, in case it has dead man's switches or bit-lockers. Opening it will take work.
 
 ### The captured drone
-`hot` Unknown contents
+`hot` In a sock
 
 [[rethven]] escaped with [[captured-skylark-drone|a Skylark drone]] that appeared to be recording the crew. What it captured, and whether it can still report back, is unknown.
 
 ### Shots fired in the Splendor
-`hot` Heat rising
+`hot` Manhunt
 
-The crew escaped Iresa's suite apparently unseen, but blasters were fired, drones were destroyed and a suite was wrecked. [[splendor-security]] and [[severin]] will be looking for whoever did it. Iresa knows exactly who it was.
-
-### Reach Dane's suite
-`hot` Ready
-
-The crew know [[ilyra-dane]]'s room and, thanks to [[michael]], her crowded treatment schedule. They have an eighth-floor base nearby and can move through the [[service-tunnels]]. Exterior maintenance routes may offer another approach. Her ever-present bodyguard, the presumed [[tessick]], may already have noticed their surveillance.
+[[severin|Warden Severin]] has seen Iresa's wrecked suite and ordered his people to find the Gand. Hunting for a Gand known only as “Gand” is not easy. On the treatment levels, a Gungan matriarch recognised the crew as the people who attacked the Togruta envoy and called security. The guest record now also contains a fat Geonosian.
 
 ### Casimir and Tessick's private agenda
-`hot` New evidence
+`hot` Escalating
 
-[[casimir-aldovane]] and the presumed [[tessick]] held a terse, conspiratorial conversation and stopped the instant Dane appeared. Whatever they were discussing, they did not want her to hear it.
+[[casimir-aldovane]] and the presumed [[tessick]] have been conferring out of Dane's earshot since Session VI. In Session VIII, Casimir slipped out of 6 Delta just before the room was sealed, and a figure resembling the follower moved through a side passage. The same man had earlier recognised [[carsk]] in the sauna and asked whether it was him on the balcony. It is no longer a hunch, though it is still not proven.
 
 ### Iresa is still in the Splendor
 `open` Unfinished business
 
 Carsk confronted [[iresa-tarn-kavu|Iresa]] and walked away with more questions than answers. She is still at the resort for now, and she knows Carsk is here. Getting to her again before she leaves for another world may be difficult.
 
-### Rethven's obligation
-`open` Triggers next session
+### Kess's obligation
+`open` Held in reserve
 
-The obligation roll at the end of Session VII came up [[rethven]]. His obligation is a fascination with what cannot be explained.
+The Session VIII obligation roll came up [[kess]]. He did not win the [[wayfarers-debt|Wayfarer's Debt]] at cards. He bought her from a shonky dealer, disabled the tracker so she could not be repossessed and flew off. The GM may hold this obligation for a few sessions.
 
 ### Michael's twenty-four hours
 `hot` Clock running

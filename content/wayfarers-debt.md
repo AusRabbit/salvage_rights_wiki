@@ -14,3 +14,7 @@ Aboard her, [[kess]]'s social checks are upgraded — a mechanical quirk the cre
 Currently parked in an auxiliary berth in the [[servants-quarters]] of the [[nubian-aqua-splendor]], too cramped for repairs or unloading. [[rhett]] stayed behind to keep cleaning while the crew entered the resort. [[sean]] and the other attendants remain connected to the confrontation at the ramp; [[michael]] woke aboard and escaped back into the Splendor before being recaptured.
 
 Carsk keeps his private investigation here: a board of faces and red string charting possible links to the terrorist attack that killed his family.
+
+## Who Owns Her
+
+According to [[kess]], he won her in a legendary game of cards. In Session VIII he admitted the truth: he bought her from a shonky dealer, disabled her tracking so she could not be repossessed and left. The debtors may still be looking. The obligation has triggered, and the GM may hold it in reserve.
